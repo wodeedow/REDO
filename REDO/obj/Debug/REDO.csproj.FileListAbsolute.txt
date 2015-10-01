@@ -1,0 +1,9 @@
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\bin\Debug\REDO.exe.config
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\bin\Debug\REDO.exe
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\bin\Debug\REDO.pdb
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.csprojResolveAssemblyReference.cache
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.MainWindow.resources
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.Properties.Resources.resources
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.csproj.GenerateResource.Cache
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.exe
+F:\研一课程\数据库\数据库假期作业\REDO\REDO\obj\Debug\REDO.pdb
